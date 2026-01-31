@@ -1,30 +1,94 @@
-# 科研文献整理仓库
+# 科研文献整理仓库 / Research Papers Repository
 
-Research Papers Repository - 用于整理和存档各类研究领域的文献资源。
+用于整理和存档各类研究领域的文献资源。
 
 ## 目录结构
 
 ```
 research-papers/
 ├── README.md                    # 本文件
-├── europa-geopolitica/          # 欧洲地缘政治研究
-│   └── README.md
 ├── internet-sovereignty/        # 互联网主权与数字治理
-│   └── README.md
-└── ...                          # 更多研究领域
+│   ├── README.md               # 主题概述与资源导航
+│   └── sources/
+│       ├── INDEX.md            # 资料索引
+│       ├── original/           # 英文原始文件 (20个)
+│       └── translated/         # 中文翻译文件 (19个)
+└── europa-geopolitica/          # 欧洲地缘政治研究
+    ├── README.md               # 主题概述与资源导航
+    ├── LITERATURE.md           # 文献列表
+    └── sources/
+        ├── INDEX.md            # 资料索引
+        ├── original/           # 英文原始文件 (6个)
+        └── translated/         # 中文翻译文件 (6个)
 ```
 
 ## 研究领域
 
-| 领域 | 描述 | 状态 |
+### 1. 互联网主权与数字治理 (Internet Sovereignty)
+
+| 类别 | 数量 | 说明 |
 |------|------|------|
-| [Europa Geopolitica](./europa-geopolitica/) | 欧洲地缘政治研究文献 | 🟢 进行中 |
-| [Internet Sovereignty](./internet-sovereignty/) | 互联网主权与数字治理研究 | 🟢 进行中 |
+| 学术论文 | 37篇 | 涵盖互联网治理、网络主权、数字主权、平台治理 |
+| 智库报告 | 多篇 | EFF、ISOC、伯克曼中心、兰德、自由之家等 |
+| 政策文件 | 多篇 | 欧盟AI法案、数字服务法等 |
 
-## 贡献
+**主要内容：**
+- 多利益相关方治理模式
+- ICANN研究
+- 中国网络主权
+- 欧盟数字主权与GDPR
+- 数据本地化
+- 平台治理与内容审核
+- 算法治理
 
-欢迎通过 Issue 或 Pull Request 添加更多研究资源。
+👉 [查看详情](./internet-sovereignty/)
+
+### 2. 欧洲地缘政治 (Europa Geopolitica)
+
+| 类别 | 数量 | 说明 |
+|------|------|------|
+| 学术论文 | 43篇 | 涵盖战略自主、CFSP、跨大西洋关系等8个主题 |
+| ECFR报告 | 10篇 | 欧洲外交关系委员会政策简报 |
+| SWP报告 | 2篇 | 德国国际与安全事务研究所 |
+| EUISS报告 | 2篇 | 欧盟安全研究所 |
+
+**主要内容：**
+- 欧洲战略自主
+- 欧盟共同外交与安全政策 (CFSP/CSDP)
+- 跨大西洋关系
+- 欧俄关系
+- 欧中关系
+- 欧洲防务一体化
+- 欧盟扩大
+- 欧洲能源安全
+
+👉 [查看详情](./europa-geopolitica/)
+
+## 文件格式说明
+
+### 原始文件 (original/)
+- 英文 Markdown 格式
+- 保留原始来源链接
+- DOI 使用完整 URL 格式 (`https://doi.org/...`)
+
+### 翻译文件 (translated/)
+- 中文文件名
+- 保留英文标题（学术论文）
+- 保持所有链接不变
+
+## 贡献指南
+
+欢迎通过 Issue 或 Pull Request 添加更多研究资源：
+
+1. 确保文献信息准确完整
+2. 提供原始来源链接
+3. DOI 使用完整 URL 格式
+4. 遵循现有目录结构
 
 ## 许可证
 
-本仓库内容仅供学术研究参考使用。
+本仓库内容仅供学术研究参考使用。各文献版权归原作者/出版商所有。
+
+---
+
+*最后更新: 2026-01-31*

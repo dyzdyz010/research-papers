@@ -6,6 +6,58 @@
 
 ---
 
+## 📁 资料库内容
+
+本主题已整理的研究资料位于 `sources/` 目录，包含英文原文和中文翻译。
+
+### 统计概览
+
+| 类别 | 数量 | 说明 |
+|------|------|------|
+| 学术论文 | 43篇 | 涵盖8个主题领域 |
+| ECFR报告 | 10篇 | 欧洲外交关系委员会政策简报 |
+| SWP报告 | 2篇 | 德国国际与安全事务研究所 |
+| EUISS报告 | 2篇 | 欧盟安全研究所 |
+
+### 学术论文主题分布
+
+| 主题 | 数量 |
+|------|------|
+| 欧洲战略自主 (European Strategic Autonomy) | 6篇 |
+| 欧盟共同外交与安全政策 (EU CFSP/CSDP) | 6篇 |
+| 跨大西洋关系 (Transatlantic Relations) | 6篇 |
+| 欧俄关系 (EU-Russia Relations) | 7篇 |
+| 欧中关系 (EU-China Relations) | 5篇 |
+| 欧洲防务一体化 (European Defence Integration) | 6篇 |
+| 欧盟扩大 (EU Enlargement) | 4篇 |
+| 欧洲能源安全 (European Energy Security) | 3篇 |
+
+### 英文原文 (sources/original/)
+
+| 文件 | 描述 |
+|------|------|
+| academic-papers.md | 学术论文 (43篇) |
+| ecfr-reports.md | ECFR报告合集 (10篇) |
+| swp-ukraine-eu-path.md | SWP: 乌克兰入盟路径 |
+| swp-greenland-crisis.md | SWP: 格陵兰危机 |
+| euiss-gaza-peace.md | EUISS: 加沙和平评论 |
+| euiss-strategic-compass.md | EUISS: 战略指南针/跨大西洋关系 |
+
+### 中文翻译 (sources/translated/)
+
+所有翻译文件使用中文文件名：
+
+| 文件 | 描述 |
+|------|------|
+| 欧洲地缘政治学术论文.md | 学术论文翻译 |
+| ECFR报告合集.md | ECFR报告翻译 |
+| SWP-乌克兰入盟路径.md | SWP报告翻译 |
+| SWP-格陵兰危机.md | SWP报告翻译 |
+| EUISS-加沙和平评论.md | EUISS报告翻译 |
+| EUISS-战略指南针.md | EUISS报告翻译 |
+
+---
+
 ## 一、欧盟安全研究所 (EUISS) 文献
 
 | 序号 | 标题 | 类型 | 链接 |

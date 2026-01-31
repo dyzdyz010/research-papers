@@ -6,6 +6,70 @@
 
 ---
 
+## 📁 资料库内容
+
+本主题已整理的研究资料位于 `sources/` 目录，包含英文原文和中文翻译。
+
+### 统计概览
+
+| 类别 | 数量 | 说明 |
+|------|------|------|
+| 学术论文 | 37篇 | 互联网治理、网络主权、数字主权、平台治理 |
+| 学术著作 | 3个文件 | 经典著作、网络安全、监控与虚假信息 |
+| 智库报告 | 多篇 | EFF、ISOC、伯克曼中心、兰德、自由之家 |
+| 政策文件 | 2篇 | 欧盟AI法案、数字服务法 |
+| 期刊信息 | 1篇 | 重要学术期刊汇总 |
+
+### 英文原文 (sources/original/)
+
+| 文件 | 描述 |
+|------|------|
+| academic-papers.md | 学术论文 (37篇) |
+| academic-books-part1.md | 互联网治理经典著作 |
+| academic-books-part2.md | 数字技术、监控与虚假信息著作 |
+| academic-books-cybersecurity.md | 网络安全与网络战争著作 |
+| academic-journals-info.md | 学术期刊信息 |
+| berkman-ethics-governance-ai.md | 伯克曼: AI伦理与治理 |
+| berkman-governance-technology-internet.md | 伯克曼: 技术与互联网治理 |
+| civil-society-orgs.md | 数字权利公民社会组织 |
+| eff-encrypt-the-web.md | EFF: 加密网络 |
+| eff-section-230.md | EFF: 第230条款 |
+| eff-surveillance-self-defense.md | EFF: 监控自卫指南 |
+| eu-ai-act.md | 欧盟人工智能法案 |
+| eu-dsa-digital-services-act.md | 欧盟数字服务法 |
+| freedomhouse-freedom-on-the-net.md | 自由之家: 网络自由报告 |
+| isoc-internet-governance.md | ISOC: 互联网治理政策简报 |
+| isoc-online-safety-act.md | ISOC: 在线安全法简报 |
+| rand-ai-induced-psychosis.md | 兰德: AI诱发精神病安全影响 |
+| rand-estonia-digital-capabilities.md | 兰德: 爱沙尼亚数字能力 |
+| rand-four-governance-approaches-ai.md | 兰德: AI四种治理方法 |
+
+### 中文翻译 (sources/translated/)
+
+所有翻译文件使用中文文件名：
+
+- 互联网治理与数字主权论文.md
+- 互联网治理经典著作-第一部分.md
+- 数字技术监控与虚假信息著作.md
+- 网络安全与网络战争著作.md
+- 学术期刊信息.md
+- 伯克曼-人工智能伦理与治理.md
+- 伯克曼-技术与互联网治理.md
+- 数字权利公民社会组织.md
+- EFF-加密网络.md
+- EFF-第230条款.md
+- EFF-监控自卫指南.md
+- 欧盟人工智能法案.md
+- 欧盟数字服务法.md
+- 自由之家-网络自由报告.md
+- ISOC-互联网治理政策简报.md
+- ISOC-在线安全法简报.md
+- 兰德-AI诱发精神病安全影响.md
+- 兰德-爱沙尼亚数字能力.md
+- 兰德-AI四种治理方法.md
+
+---
+
 ## 核心概念
 
 ### 🔷 互联网主权 (Internet Sovereignty / Cyber Sovereignty)
