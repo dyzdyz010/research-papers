@@ -30,6 +30,7 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Year**: 1996
 - **Volume**: 45
 - **Pages**: 911-930
+- **Link**: https://ir.lawnet.fordham.edu/faculty_scholarship/39/
 - **Abstract**: Reidenberg argues that networks have key attributes of sovereignty: participant/citizens via service provider membership agreements, 'constitutional' rights through contractual terms of service, and police powers through taxation (fees) and system operator sanctions.
 
 #### Paper 4: Multi-stakeholder Internet Governance: The Role of the Private Sector
@@ -44,6 +45,7 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Publication**: The Wealth of Networks
 - **Year**: 2006
 - **Publisher**: Yale University Press
+- **Link**: https://www.benkler.org/Benkler_Wealth_Of_Networks.pdf
 - **Abstract**: Benkler conceptualizes internet governance through three layers: physical infrastructure layer, code or logical layer, and content layer. Each layer has distinct governance challenges and stakeholders.
 
 ### 1.2 ICANN Research
@@ -54,6 +56,7 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Year**: 2010
 - **Publisher**: MIT Press
 - **ISBN**: 978-0262014595
+- **Link**: https://mitpress.mit.edu/9780262014595/networks-and-states/
 - **Abstract**: Mueller examines ICANN's role in internet governance, its relationship with the U.S. government, and the tensions between technical coordination and political control of internet resources.
 
 #### Paper 7: Will the Internet Fragment? Sovereignty, Globalization and Cyberspace
@@ -61,6 +64,7 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Publisher**: Polity Press
 - **Year**: 2017
 - **ISBN**: 978-1509502905
+- **Link**: https://www.politybooks.com/bookdetail?book_slug=will-the-internet-fragment--9781509502905
 - **Abstract**: Analyzes the potential fragmentation of the internet due to assertions of national sovereignty, examining ICANN's transition away from U.S. government oversight and its implications.
 
 #### Paper 8: Internet Governance: Infrastructure and Institutions
@@ -68,6 +72,7 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Publisher**: Oxford University Press
 - **Year**: 2014
 - **ISBN**: 978-0199561131
+- **Link**: https://global.oup.com/academic/product/the-global-war-for-internet-governance-9780300181357
 - **Abstract**: DeNardis provides a comprehensive examination of internet infrastructure governance, arguing that "Internet Governance generally refers to the policy and technical coordination issues related to the exchange of information over the Internet."
 
 ---
@@ -117,6 +122,7 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Publisher**: Nomos Verlagsgesellschaft
 - **Year**: 2000
 - **Pages**: 198-209
+- **Link**: https://www.nomos-elibrary.de/10.5771/9783845262635/understanding-the-impact-of-global-networks-on-local-social-political-and-cultural-values
 - **Abstract**: Sassen argues that the state's power is limited in cyberspace and that networks, particularly private tunnels for institutions such as banks, create tensions within the state.
 
 #### Paper 14: Cyber Sovereignty: The Future of Governance in Cyberspace
@@ -124,6 +130,7 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Publisher**: Stanford University Press
 - **Year**: 2024
 - **ISBN**: 9781503639386
+- **Link**: https://www.sup.org/books/title/?id=36453
 - **Abstract**: Examines how governing entities create boundaries on networks and exert control, often through law enforcement, over such boundaries.
 
 #### Paper 15: Sovereignty and Network Sovereignty
@@ -180,11 +187,13 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Year**: 2015
 - **Volume**: 64(3)
 - **Pages**: 677-739
+- **Link**: https://scholarlycommons.law.emory.edu/elj/vol64/iss3/2/
 - **Abstract**: Analyzes data localization policies that seek to restrict the storage, movement and/or processing of data to specific areas and jurisdictions, examining their justifications and consequences.
 
 #### Paper 21: Russia's Data Localization Laws: Implications for Data Protection
 - **Journal**: NOERR Law Review
 - **Year**: 2015
+- **Link**: https://www.noerr.com/en/insights/russias-data-localization-law
 - **Abstract**: Examines Russia's data localization law requiring any personal data collected from Russian citizens online to be stored in server databases physically located in Russia.
 
 #### Paper 22: Data Localization and the Balkanization of the Internet
@@ -192,6 +201,7 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Journal**: Yale Journal of Law & Technology
 - **Year**: 2014
 - **Volume**: 16(2)
+- **Link**: https://yjolt.org/data-localization-and-balkanization-internet
 - **Abstract**: Warns that data localization requirements increase the likelihood of multiple standards and the fragmentation of the internet, limiting the free flow of information.
 
 #### Paper 23: Internet Surveillance and Boomerang Routing: A Call for Canadian Network Sovereignty
@@ -199,6 +209,7 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Publication**: SSRN
 - **Year**: 2013
 - **SSRN**: 2311792
+- **Link**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2311792
 - **Abstract**: Analyzes the routing of internet transmissions through foreign countries and its implications for national surveillance, using Canada-US traffic as an example.
 
 ---
@@ -212,6 +223,7 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Publisher**: Yale University Press
 - **Year**: 2018
 - **ISBN**: 978-0-300-23502-9
+- **Link**: https://yalebooks.yale.edu/book/9780300235029/custodians-of-the-internet/
 - **Abstract**: Examines the practice of content moderation - the systematic process of identifying, reducing, or removing user contributions that are irrelevant, obscene, illegal, harmful, or insulting.
 
 #### Paper 25: Behind the Screen: Content Moderation in the Shadows of Social Media
@@ -219,6 +231,7 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Publisher**: Yale University Press
 - **Year**: 2019
 - **ISBN**: 978-0300235883
+- **Link**: https://yalebooks.yale.edu/book/9780300235883/behind-the-screen/
 - **Abstract**: Coins the term "Commercial Content Moderation" (CCM) to describe the practice of monitoring and vetting user-generated content for social media platforms to ensure compliance with legal, regulatory, and community guidelines.
 
 #### Paper 26: Do Not Recommend? Reduction as a Form of Content Moderation
@@ -243,6 +256,7 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Publisher**: NYU Press
 - **Year**: 2018
 - **ISBN**: 978-1479837243
+- **Link**: https://nyupress.org/9781479837243/algorithms-of-oppression/
 - **Abstract**: Examines how algorithmic systems can reinforce discrimination and bias, arguing for greater transparency and accountability in platform algorithms.
 
 #### Paper 29: The Age of Surveillance Capitalism
@@ -250,6 +264,7 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Publisher**: PublicAffairs
 - **Year**: 2019
 - **ISBN**: 978-1610395694
+- **Link**: https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/
 - **Abstract**: Analyzes how internet corporations provide societal infrastructures and interfere with state matters, describing them as "quasi-sovereign" entities that challenge democratic sovereignty.
 
 #### Paper 30: Code: Version 2.0
@@ -257,6 +272,7 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Publisher**: Basic Books
 - **Year**: 2006
 - **ISBN**: 978-0465039142
+- **Link**: https://codev2.cc/
 - **Abstract**: Argues that code is law - that the architecture of cyberspace constitutes its own regulatory mechanism, and explores implications for freedom and control in digital spaces.
 
 #### Paper 31: Platform Capitalism
@@ -264,6 +280,7 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Publisher**: Polity Press
 - **Year**: 2017
 - **ISBN**: 978-1509504879
+- **Link**: https://www.politybooks.com/bookdetail?book_slug=platform-capitalism--9781509504862
 - **Abstract**: Examines the emergence of platform-based business models and their implications for economic and political governance.
 
 #### Paper 32: Privacy
@@ -290,11 +307,13 @@ This document compiles key academic papers on internet governance, cyber soverei
 #### Paper 34: Confronting Reality in Cyberspace: Foreign Policy for a Fragmented Internet
 - **Publication**: Council on Foreign Relations Task Force Report No. 80
 - **Year**: 2022
+- **Link**: https://www.cfr.org/task-force-reports/confronting-reality-in-cyberspace
 - **Abstract**: Recommends that the U.S. reconsider its cyber, digital trade and online freedom policies that champion a free and open internet, as having failed given increasing fragmentation.
 
 #### Paper 35: Montevideo Statement on the Future of Internet Cooperation
 - **Authors**: I* Organizations (ICANN, IETF, IAB, W3C, ISOC, Regional Internet Registries)
 - **Year**: 2013
+- **Link**: https://www.icann.org/en/announcements/details/montevideo-statement-on-the-future-of-internet-cooperation-7-10-2013-en
 - **Abstract**: Statement expressing concern over the undermining of trust and confidence of internet users globally due to pervasive monitoring and surveillance, calling for accelerating the globalization of ICANN and IANA functions.
 
 ### 5.2 Human Rights and Internet Freedom
@@ -302,11 +321,13 @@ This document compiles key academic papers on internet governance, cyber soverei
 #### Paper 36: Internet Universality and the ROAM Principles
 - **Organization**: UNESCO
 - **Year**: 2015
+- **Link**: https://unesdoc.unesco.org/ark:/48223/pf0000246687
 - **Abstract**: Endorsed the concept of Internet Universality stating that the internet should be (i) Human Rights-based (ii) Open, (iii) Accessible to all, and (iv) Nurtured by Multistakeholder participation.
 
 #### Paper 37: New Data Security Requirements and the Proceduralization of Mass Surveillance Law after the European Data Retention Case
 - **Authors**: Frederik Zuiderveen Borgesius & Axel Arnbak
 - **Year**: 2015
+- **Link**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2566860
 - **Abstract**: Analyzes the Court of Justice of the European Union's ruling striking down the Data Retention Directive, which had obliged telecom and Internet access providers to retain metadata of all customers.
 
 ---
