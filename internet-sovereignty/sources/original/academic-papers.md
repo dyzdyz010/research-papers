@@ -37,7 +37,7 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Authors**: Jean-Marie Chenou
 - **Journal**: Global Policy
 - **Year**: 2014
-- **DOI**: 10.1111/1758-5899.12109
+- **DOI**: https://doi.org/10.1111/1758-5899.12109
 - **Abstract**: Examines how multi-stakeholder governance has become established in internet governance and analyzes the tensions between this model and traditional government-dominated international institutions.
 
 #### Paper 5: Three Layers of Internet Governance
@@ -87,7 +87,7 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Year**: 2010
 - **Volume**: 30(2)
 - **Pages**: 71-89
-- **DOI**: 10.1353/sais.2010.0006
+- **DOI**: https://doi.org/10.1353/sais.2010.0006
 - **Abstract**: Examines China's approach to internet sovereignty, analyzing the tension between the netizen community and the government's efforts to control digital space.
 
 #### Paper 10: China's Internet Sovereignty: Contested Ideas in Global Governance
@@ -95,7 +95,7 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Journal**: Asian Survey
 - **Year**: 2020
 - **Volume**: 60(3)
-- **DOI**: 10.1525/as.2020.60.3.527
+- **DOI**: https://doi.org/10.1525/as.2020.60.3.527
 - **Abstract**: Analyzes China's concept of "cyber sovereignty" (网络主权) as a key element of Chinese internet policy and its role in Chinese foreign policy.
 
 #### Paper 11: A Historical Explanation of Chinese Cybersovereignty
@@ -104,14 +104,14 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Year**: 2022
 - **Volume**: 22(3)
 - **Pages**: 469-499
-- **DOI**: 10.1093/irap/lcab009
+- **DOI**: https://doi.org/10.1093/irap/lcab009
 - **Abstract**: Provides a historical explanation for China's approach to cybersovereignty, arguing that this approach could be replicated in many other countries around the world.
 
 #### Paper 12: Cyber Sovereignty: International Security, Mass Communication, and the Future of the Internet
 - **Author**: Lev Topor
 - **Publisher**: Springer
 - **Year**: 2024
-- **DOI**: 10.1007/978-3-031-58199-1
+- **DOI**: https://doi.org/10.1007/978-3-031-58199-1
 - **ISBN**: 978-3-031-58199-1
 - **Abstract**: Comprehensive examination of cyber sovereignty concepts, their implications for international security and the future of the global internet.
 
@@ -138,7 +138,7 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Book**: Co-governed Sovereignty Network: Legal Basis and Its Prototype & Applications with MIN Architecture
 - **Publisher**: Springer
 - **Year**: 2021
-- **DOI**: 10.1007/978-981-16-2670-8_1
+- **DOI**: https://doi.org/10.1007/978-981-16-2670-8_1
 - **ISBN**: 978-981-16-2670-8
 - **Abstract**: Explores the concept of network sovereignty and its relationship to traditional notions of state sovereignty.
 
@@ -153,21 +153,21 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Journal**: Internet Policy Review
 - **Year**: 2020
 - **Volume**: 9(4)
-- **DOI**: 10.14763/2020.4.1532
+- **DOI**: https://doi.org/10.14763/2020.4.1532
 - **Abstract**: Over the last decade, digital sovereignty has become a central element in policy discourses on digital issues. Although it has become popular in both centralized/authoritarian and democratic countries alike, the concept remains highly contested. The paper systematizes the various normative claims to digital sovereignty and shows how the concept is understood more as a discursive practice in politics and policy than as a legal or organizational concept.
 
 #### Paper 17: The European Union General Data Protection Regulation: What It Is and What It Means
 - **Authors**: Chris Jay Hoofnagle, Bart van der Sloot & Frederik Zuiderveen Borgesius
 - **Journal**: Information & Communications Technology Law
 - **Year**: 2019
-- **DOI**: 10.1080/13600834.2019.1573501
+- **DOI**: https://doi.org/10.1080/13600834.2019.1573501
 - **Abstract**: Explains how the GDPR transforms protection of personal data into a detailed regulatory regime that influences personal data usage worldwide, encouraging firms to develop information governance frameworks.
 
 #### Paper 18: Between Regulation and Global Influence: Can the EU Compete in the Digital Economy?
 - **Authors**: Fernando Pacheco & Maria João Velez
-- **Journal**: MDPI Social Sciences
+- **Journal**: Regional Science & Environmental Economics
 - **Year**: 2025
-- **DOI**: 10.3390/socsci
+- **DOI**: https://doi.org/10.3390/rsee2040030
 - **Abstract**: Investigates the paradox of regulation versus innovation in the EU, examining the Digital Services Act, Digital Markets Act, and AI Act, comparing EU performance with the US and China in digital economy.
 
 #### Paper 19: Critical Views on the Phenomenon of EU Digital Sovereignty
@@ -176,7 +176,7 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Year**: 2022
 - **Volume**: 9(2)
 - **Pages**: 110-132
-- **DOI**: 10.2478/eustu-2022-0016
+- **DOI**: https://doi.org/10.2478/eustu-2022-0016
 - **Abstract**: Examines the phenomenon of EU digital sovereignty through the prism of global data governance reality, identifying main obstacles and challenges.
 
 ### 3.2 Data Localization
@@ -239,7 +239,7 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Journal**: Social Media + Society
 - **Year**: 2022
 - **Volume**: 8(3)
-- **DOI**: 10.1177/20563051221117552
+- **DOI**: https://doi.org/10.1177/20563051221117552
 - **Abstract**: Explores how content reduction (decreasing visibility rather than removal) operates as an alternative form of content moderation.
 
 #### Paper 27: The Laborers Who Keep Dick Pics and Beheadings Out of Your Facebook Feed
@@ -288,7 +288,7 @@ This document compiles key academic papers on internet governance, cyber soverei
 - **Journal**: Internet Policy Review
 - **Year**: 2019
 - **Volume**: 8(4)
-- **DOI**: 10.14763/2019.4.1427
+- **DOI**: https://doi.org/10.14763/2019.4.1427
 - **Abstract**: Provides a conceptual introduction to privacy in the digital society, examining how digital technology challenges established privacy theories and requires new conceptualizations.
 
 ---

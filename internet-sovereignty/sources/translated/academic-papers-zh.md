@@ -182,9 +182,9 @@
 #### 论文18：监管与全球影响力之间：欧盟能否在数字经济中竞争？
 - **英文标题**: Between Regulation and Global Influence: Can the EU Compete in the Digital Economy?
 - **作者**: Fernando Pacheco & Maria João Velez
-- **期刊**: MDPI Social Sciences
+- **期刊**: Regional Science & Environmental Economics
 - **年份**: 2025
-- **DOI/链接**: https://doi.org/10.3390/socsci
+- **DOI/链接**: https://doi.org/10.3390/rsee2040030
 - **摘要**: 研究欧盟监管与创新的悖论，考察数字服务法、数字市场法和人工智能法，比较欧盟与美国和中国在数字经济中的表现。
 
 #### 论文19：欧盟数字主权现象的批判性观点
