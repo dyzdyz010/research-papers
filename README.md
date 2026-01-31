@@ -9,6 +9,8 @@ research-papers/
 ├── README.md                    # 本文件
 ├── europa-geopolitica/          # 欧洲地缘政治研究
 │   └── README.md
+├── internet-sovereignty/        # 互联网主权与数字治理
+│   └── README.md
 └── ...                          # 更多研究领域
 ```
 
@@ -17,6 +19,7 @@ research-papers/
 | 领域 | 描述 | 状态 |
 |------|------|------|
 | [Europa Geopolitica](./europa-geopolitica/) | 欧洲地缘政治研究文献 | 🟢 进行中 |
+| [Internet Sovereignty](./internet-sovereignty/) | 互联网主权与数字治理研究 | 🟢 进行中 |
 
 ## 贡献
 
