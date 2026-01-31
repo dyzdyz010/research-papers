@@ -32,6 +32,7 @@
 - **年份**: 1996
 - **卷期**: 第45卷
 - **页码**: 911-930
+- **链接**: https://ir.lawnet.fordham.edu/faculty_scholarship/39/
 - **摘要**: Reidenberg认为网络具有主权的关键属性：通过服务提供商会员协议实现参与者/公民身份，通过服务条款合同获得"宪法"权利，通过征税（费用）和系统运营商制裁行使警察权力。
 
 #### 论文4：多利益相关方互联网治理：私营部门的角色
@@ -48,6 +49,7 @@
 - **出版物**: 《网络财富》(The Wealth of Networks)
 - **年份**: 2006
 - **出版社**: 耶鲁大学出版社
+- **链接**: https://www.benkler.org/Benkler_Wealth_Of_Networks.pdf
 - **摘要**: Benkler通过三个层次来概念化互联网治理：物理基础设施层、代码或逻辑层、内容层。每一层都有独特的治理挑战和利益相关者。
 
 ### 1.2 ICANN 研究
@@ -59,6 +61,7 @@
 - **年份**: 2010
 - **出版社**: MIT出版社
 - **ISBN**: 978-0262014595
+- **链接**: https://mitpress.mit.edu/9780262014595/networks-and-states/
 - **摘要**: Mueller考察了ICANN在互联网治理中的角色、其与美国政府的关系，以及互联网资源的技术协调与政治控制之间的张力。
 
 #### 论文7：互联网会分裂吗？主权、全球化与网络空间
@@ -67,6 +70,7 @@
 - **出版社**: Polity Press
 - **年份**: 2017
 - **ISBN**: 978-1509502905
+- **链接**: https://www.politybooks.com/bookdetail?book_slug=will-the-internet-fragment--9781509502905
 - **摘要**: 分析由于国家主权主张可能导致的互联网碎片化，考察ICANN从美国政府监督下过渡及其影响。
 
 #### 论文8：互联网治理：基础设施与制度
@@ -75,6 +79,7 @@
 - **出版社**: 牛津大学出版社
 - **年份**: 2014
 - **ISBN**: 978-0199561131
+- **链接**: https://global.oup.com/academic/product/the-global-war-for-internet-governance-9780300181357
 - **摘要**: DeNardis全面考察了互联网基础设施治理，认为"互联网治理通常指与互联网信息交换相关的政策和技术协调问题"。
 
 ---
@@ -129,6 +134,7 @@
 - **出版社**: Nomos Verlagsgesellschaft
 - **年份**: 2000
 - **页码**: 198-209
+- **链接**: https://www.nomos-elibrary.de/10.5771/9783845262635/understanding-the-impact-of-global-networks-on-local-social-political-and-cultural-values
 - **摘要**: Sassen认为国家权力在网络空间受到限制，特别是银行等机构的私人通道网络在国家内部制造了张力。
 
 #### 论文14：网络主权：网络空间治理的未来
@@ -137,6 +143,7 @@
 - **出版社**: 斯坦福大学出版社
 - **年份**: 2024
 - **ISBN**: 9781503639386
+- **链接**: https://www.sup.org/books/title/?id=36453
 - **摘要**: 考察治理实体如何在网络上创建边界并行使控制权，通常以法律执行的形式体现。
 
 #### 论文15：主权与网络主权
@@ -199,12 +206,14 @@
 - **年份**: 2015
 - **卷期**: 64(3)
 - **页码**: 677-739
+- **链接**: https://scholarlycommons.law.emory.edu/elj/vol64/iss3/2/
 - **摘要**: 分析旨在将数据存储、移动和/或处理限制在特定地区和管辖范围内的数据本地化政策，审视其理由和后果。
 
 #### 论文21：俄罗斯数据本地化法：对数据保护的影响
 - **英文标题**: Russia's Data Localization Laws: Implications for Data Protection
 - **期刊**: NOERR Law Review
 - **年份**: 2015
+- **链接**: https://www.noerr.com/en/insights/russias-data-localization-law
 - **摘要**: 考察俄罗斯的数据本地化法，要求从俄罗斯公民在线收集的任何个人数据必须存储在位于俄罗斯境内的服务器数据库中。
 
 #### 论文22：数据本地化与互联网的巴尔干化
@@ -213,6 +222,7 @@
 - **期刊**: Yale Journal of Law & Technology
 - **年份**: 2014
 - **卷期**: 16(2)
+- **链接**: https://yjolt.org/data-localization-and-balkanization-internet
 - **摘要**: 警告数据本地化要求增加了多重标准和互联网碎片化的可能性，限制了信息的自由流动。
 
 #### 论文23：互联网监控与回旋路由：呼吁加拿大网络主权
@@ -221,6 +231,7 @@
 - **出版物**: SSRN
 - **年份**: 2013
 - **SSRN**: 2311792
+- **链接**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2311792
 - **摘要**: 分析通过外国的互联网传输路由及其对国家监控的影响，以加拿大-美国流量为例。
 
 ---
@@ -235,6 +246,7 @@
 - **出版社**: 耶鲁大学出版社
 - **年份**: 2018
 - **ISBN**: 978-0-300-23502-9
+- **链接**: https://yalebooks.yale.edu/book/9780300235029/custodians-of-the-internet/
 - **摘要**: 考察内容审核实践——识别、减少或删除不相关、淫秽、非法、有害或侮辱性用户贡献的系统性过程。
 
 #### 论文25：屏幕背后：社交媒体阴影中的内容审核
@@ -243,6 +255,7 @@
 - **出版社**: 耶鲁大学出版社
 - **年份**: 2019
 - **ISBN**: 978-0300235883
+- **链接**: https://yalebooks.yale.edu/book/9780300235883/behind-the-screen/
 - **摘要**: 创造了"商业内容审核"(CCM)一词来描述为社交媒体平台监控和审查用户生成内容的实践，以确保符合法律、监管和社区准则。
 
 #### 论文26：不推荐？减少作为内容审核的一种形式
@@ -270,6 +283,7 @@
 - **出版社**: NYU Press
 - **年份**: 2018
 - **ISBN**: 978-1479837243
+- **链接**: https://nyupress.org/9781479837243/algorithms-of-oppression/
 - **摘要**: 考察算法系统如何强化歧视和偏见，呼吁提高平台算法的透明度和问责制。
 
 #### 论文29：监控资本主义时代
@@ -278,6 +292,7 @@
 - **出版社**: PublicAffairs
 - **年份**: 2019
 - **ISBN**: 978-1610395694
+- **链接**: https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/
 - **摘要**: 分析互联网企业如何提供社会基础设施并干预国家事务，将其描述为挑战民主主权的"准主权"实体。
 
 #### 论文30：代码：2.0版
@@ -286,6 +301,7 @@
 - **出版社**: Basic Books
 - **年份**: 2006
 - **ISBN**: 978-0465039142
+- **链接**: https://codev2.cc/
 - **摘要**: 认为代码即法律——网络空间的架构构成其自身的监管机制，并探索数字空间中自由与控制的影响。
 
 #### 论文31：平台资本主义
@@ -294,6 +310,7 @@
 - **出版社**: Polity Press
 - **年份**: 2017
 - **ISBN**: 978-1509504879
+- **链接**: https://www.politybooks.com/bookdetail?book_slug=platform-capitalism--9781509504862
 - **摘要**: 考察基于平台的商业模式的出现及其对经济和政治治理的影响。
 
 #### 论文32：隐私
@@ -323,12 +340,14 @@
 - **英文标题**: Confronting Reality in Cyberspace: Foreign Policy for a Fragmented Internet
 - **出版物**: 美国外交关系委员会工作组报告第80号
 - **年份**: 2022
+- **链接**: https://www.cfr.org/task-force-reports/confronting-reality-in-cyberspace
 - **摘要**: 建议美国重新考虑其倡导自由开放互联网的网络、数字贸易和网络自由政策，因为这些政策在日益碎片化的背景下已经失败。
 
 #### 论文35：关于互联网合作未来的蒙得维的亚声明
 - **英文标题**: Montevideo Statement on the Future of Internet Cooperation
 - **作者**: I*组织（ICANN、IETF、IAB、W3C、ISOC、区域互联网注册机构）
 - **年份**: 2013
+- **链接**: https://www.icann.org/en/announcements/details/montevideo-statement-on-the-future-of-internet-cooperation-7-10-2013-en
 - **摘要**: 声明对由于普遍监控和监视而削弱全球互联网用户信任和信心表示担忧，呼吁加速ICANN和IANA职能的全球化。
 
 ### 5.2 人权与互联网自由
@@ -337,12 +356,14 @@
 - **英文标题**: Internet Universality and the ROAM Principles
 - **机构**: 联合国教科文组织
 - **年份**: 2015
+- **链接**: https://unesdoc.unesco.org/ark:/48223/pf0000246687
 - **摘要**: 批准了互联网普遍性概念，声明互联网应是(i)基于人权的、(ii)开放的、(iii)所有人可及的、(iv)由多利益相关方参与培育的。
 
 #### 论文37：欧洲数据留存案后大规模监控法的新数据安全要求与程序化
 - **英文标题**: New Data Security Requirements and the Proceduralization of Mass Surveillance Law after the European Data Retention Case
 - **作者**: Frederik Zuiderveen Borgesius & Axel Arnbak
 - **年份**: 2015
+- **链接**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2566860
 - **摘要**: 分析欧盟法院废除数据留存指令的裁决，该指令曾要求电信和互联网接入提供商保留所有客户的元数据。
 
 ---
