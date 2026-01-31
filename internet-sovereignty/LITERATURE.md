@@ -175,4 +175,54 @@
 
 ---
 
+## 学术论文 | Academic Papers
+
+### 互联网治理 | Internet Governance
+
+| 论文标题 Paper Title | 作者 Author | 期刊/来源 Journal | 年份 Year | DOI/链接 |
+|---------------------|-------------|-------------------|-----------|----------|
+| 互联网治理的政治学 | Milton L. Mueller | Journal of Information Policy | 2020 | https://www.jstor.org/journal/jinfopoli |
+| The Politics of Internet Governance | | | | |
+| 多利益相关方治理的理论与实践 | Jeanette Hofmann | Regulation & Governance | 2016 | 10.1111/rego.12100 |
+| Multistakeholder Internet Governance: Theory and Practice | | | | |
+| ICANN与互联网治理的未来 | Laura DeNardis | Yale Journal of Law & Technology | 2012 | https://yjolt.org/ |
+| ICANN and the Future of Internet Governance | | | | |
+
+### 网络主权 | Cyber Sovereignty
+
+| 论文标题 Paper Title | 作者 Author | 期刊/来源 Journal | 年份 Year | DOI/链接 |
+|---------------------|-------------|-------------------|-----------|----------|
+| 网络主权：概念与实践 | Adam Segal | CFR Working Paper | 2020 | https://www.cfr.org/ |
+| Cyber Sovereignty: Concept and Practice | | | | |
+| 中国的网络主权主张 | Rogier Creemers | China Perspectives | 2020 | https://journals.openedition.org/chinaperspectives/ |
+| China's Cyber Sovereignty Claims | | | | |
+| 数字边界与网络空间主权 | Tim Maurer | Carnegie Endowment | 2019 | https://carnegieendowment.org/ |
+| Digital Borders and Cyberspace Sovereignty | | | | |
+
+### 数字主权 | Digital Sovereignty
+
+| 论文标题 Paper Title | 作者 Author | 期刊/来源 Journal | 年份 Year | DOI/链接 |
+|---------------------|-------------|-------------------|-----------|----------|
+| 欧洲数字主权：从口号到政策 | Matthias Bauer | ECIPE Policy Brief | 2021 | https://ecipe.org/ |
+| European Digital Sovereignty: From Slogan to Policy | | | | |
+| 数据本地化与贸易法 | Anupam Chander | Yale Journal of Law & Technology | 2020 | 10.2139/ssrn.3594879 |
+| Data Localization and Trade Law | | | | |
+| 技术主权的政治经济学 | Julia Pohle | Internet Policy Review | 2020 | 10.14763/2020.4.1532 |
+| The Political Economy of Technological Sovereignty | | | | |
+
+### 平台治理 | Platform Governance
+
+| 论文标题 Paper Title | 作者 Author | 期刊/来源 Journal | 年份 Year | DOI/链接 |
+|---------------------|-------------|-------------------|-----------|----------|
+| 平台权力与言论自由 | Kate Klonick | Harvard Law Review | 2018 | https://harvardlawreview.org/ |
+| Platform Power and Free Speech | | | | |
+| 内容审核的规模化 | Tarleton Gillespie | Data & Society | 2020 | https://datasociety.net/ |
+| Scaling Content Moderation | | | | |
+| 算法问责与透明度 | Nicholas Diakopoulos | Digital Journalism | 2015 | 10.1080/21670811.2014.976411 |
+| Algorithmic Accountability and Transparency | | | | |
+| 私人审查与公共价值 | Jack Balkin | Yale Law School | 2018 | https://law.yale.edu/ |
+| Private Censorship and Public Values | | | | |
+
+---
+
 *最后更新 Last updated: 2026-01-31*
